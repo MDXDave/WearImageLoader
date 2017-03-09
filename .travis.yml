@@ -1,13 +1,13 @@
 language: android
 
 jdk:
-  - openjdk7
+  - openjdk8
 
 android:
   components:
 
-    - build-tools-21.1.1
-    - android-21
+    - build-tools-25.0.1
+    - android-25
     - extra-android-support
     - extra-google-google_play_services
     - extra-google-m2repository
